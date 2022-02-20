@@ -16,5 +16,5 @@ Ensure Git and Python 3.9.1 or above are both installed in your computer.
 2. Install the latest stable release of ChromeDriver [here](https://chromedriver.chromium.org/).
 3. Customize the fields in the code as needed.
 4. Run the code.
-`python button-automation.py`
+`python page-processing.py`
     
